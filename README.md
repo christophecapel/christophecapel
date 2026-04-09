@@ -12,9 +12,9 @@ A personal operating system: daily retros, health dashboards, interview prep age
 
 ## Background
 
-- First product marketing hire at Atlassian (scaled Jira Service Management to $600M+ ARR)
-- User Growth lead at Canva (4M+ incremental MAU)
-- VP Product at Heidi Health (pre-Series B)
+- First product marketing hire in Australia at Atlassian (Jira Service Management, $600M+ ARR)
+- Head of User Growth at Canva (4M+ incremental MAU)
+- Head of Product at Heidi Health, first VP Product hire (pre-Series B)
 - Engineering roots, commercial instincts, product craft
 
 ## Get in touch
