@@ -4,9 +4,7 @@ Product leader with 20+ years across engineering, marketing, growth, and product
 
 ## What I'm building
 
-I spent the past 7+ weeks building a personal operating system: daily retros, health dashboards, interview prep agents, company research agents, and the discipline layer that holds it all together.
-
-833 GitHub contributions. 49 agents. 6 repos. Now sharing the pieces.
+A personal operating system: daily retros, health dashboards, interview prep agents, company research agents, and the discipline layer that holds it all together. Real systems designed, built and shipped with Claude Code. Currently sharing the pieces.
 
 ## First drop
 
