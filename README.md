@@ -8,7 +8,7 @@ A personal operating system: daily retros, health dashboards, interview prep age
 
 ## First drop
 
-**[claude-mechanisms](https://github.com/christophecapel/claude-mechanisms)** -- 15 mechanisms for Claude Code. Not rules (rules get forgotten). Not principles (too abstract). Mechanisms with triggers, retry logic, and failure notifications.
+**[claude-mechanisms](https://github.com/christophecapel/claude-mechanisms)** -- Operating mechanisms for Claude Code. Not rules (rules get forgotten). Not principles (too abstract). Mechanisms with triggers, retry logic, and failure notifications.
 
 ## Background
 
