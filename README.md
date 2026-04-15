@@ -6,9 +6,11 @@ Product leader with 20+ years across engineering, marketing, growth, and product
 
 A personal operating system: daily retros, health dashboards, interview prep agents, company research agents, and the discipline layer that holds it all together. Real systems designed, built and shipped with Claude Code. Currently sharing the pieces.
 
-## First drop
+## Open-source drops
 
 **[claude-mechanisms](https://github.com/christophecapel/claude-mechanisms)** -- Operating mechanisms for Claude Code. Not rules (rules get forgotten). Not principles (too abstract). Mechanisms with triggers, retry logic, and failure notifications.
+
+**[claude-code-press1-check](https://github.com/christophecapel/claude-code-press1-check)** -- Find out what you're pressing 1 for. Audits which Bash commands required manual approval in your Claude Code sessions, classifies them LOW / MEDIUM / HIGH risk, and suggests allow-list rules to add.
 
 ## Background
 
